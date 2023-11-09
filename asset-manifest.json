@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/labprova/static/css/main.bcdc04f4.css",
-    "main.js": "/labprova/static/js/main.0984195c.js",
+    "main.js": "/labprova/static/js/main.83b31284.js",
     "static/js/787.9c67eaf5.chunk.js": "/labprova/static/js/787.9c67eaf5.chunk.js",
     "static/media/logo.png": "/labprova/static/media/logo.a13c2d8e37a99df22fa5.png",
     "index.html": "/labprova/index.html",
     "main.bcdc04f4.css.map": "/labprova/static/css/main.bcdc04f4.css.map",
-    "main.0984195c.js.map": "/labprova/static/js/main.0984195c.js.map",
+    "main.83b31284.js.map": "/labprova/static/js/main.83b31284.js.map",
     "787.9c67eaf5.chunk.js.map": "/labprova/static/js/787.9c67eaf5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcdc04f4.css",
-    "static/js/main.0984195c.js"
+    "static/js/main.83b31284.js"
   ]
 }
